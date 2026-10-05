@@ -2,6 +2,9 @@
 We are a production company based in Kansas.
 <img width="500" height="500" alt="222" src="https://github.com/user-attachments/assets/011c3c40-6e89-48f8-89ce-95c763c0431b" />
 
+## Locations
+* Kansas
+
 ## Trailer Releases
 * [Unsolved Stories (Trailer)](https://youtu.be/WrmZpFJ0mhc)
 
